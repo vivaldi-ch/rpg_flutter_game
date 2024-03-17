@@ -1,0 +1,1 @@
+const double ANIMATION_DURATION_IN_SEC = 1;
